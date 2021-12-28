@@ -1,0 +1,25 @@
+{
+  "name": "hostedapi",
+  "version": "1.0.0",
+  "description": "Sample Hosting of Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdsimar1901/HostedBackendApi.git"
+  },
+  "author": "Simar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsimar1901/HostedBackendApi/issues"
+  },
+  "homepage": "https://github.com/mdsimar1901/HostedBackendApi#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "engines" : {
+    "node": "14.15.4"
+  }
+}
